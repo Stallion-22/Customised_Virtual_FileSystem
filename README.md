@@ -8,7 +8,7 @@ Intel 32 or 64 bit processor
 Command User Interface
 
 # Technology used
-System Programming using C
+System Programming using C and C++
 
 # About the project
 - In the project we emulate almost all the data structures which are used by operating system to manage File system oriented tasks.
